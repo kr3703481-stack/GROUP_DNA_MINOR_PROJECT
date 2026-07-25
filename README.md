@@ -1,2 +1,2 @@
 # GROUP_DNA_MINOR_PROJECT
-📊 A collaborative project by Group DNA that analyses exported WhatsApp chats using Python. It counts messages, tracks user activity, and generates meaningful chat insights through simple data analysis.
+🚀 Group DNA turns WhatsApp chats into insights. This Python project analyses exported chat data to measure message activity, identify active participants, and uncover conversation trends with clean, efficient code.
